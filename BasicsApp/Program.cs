@@ -7,6 +7,11 @@ internal class Program
   
     private static void Main(string[] args)
     {
+
+        Student s=new Student();
+        Student.
+
+
         char ans = 'Y';
         do
         {
@@ -36,19 +41,14 @@ internal class Program
                 Environment.Exit(1);
         }
         while (ans=='Y');
-
-   
-
-
-
-
-
-
         //Console.WriteLine("Enter first number");
         //int fno = Convert.ToInt32(Console.ReadLine());
         //Console.WriteLine("Enter second number");
         //int sno = Int32.Parse(Console.ReadLine());
         //SubtractNos(fno, sno);
+
+        File
+
 
 
 

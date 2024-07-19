@@ -9,7 +9,7 @@ namespace BasicsApp
     internal class Student
     {
         static int Rollno = 1;
-
+       private  static string StudentName;
 
         public static int GenerateRollNo() {
 
